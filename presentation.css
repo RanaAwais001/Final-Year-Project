@@ -1,0 +1,73 @@
+*{
+    margin : 0;
+    padding:0;
+    font-family: Century Gothic;
+}
+
+header{
+    background-image: url(starss.jpg);
+    height: 50vh;
+    background-size:cover;
+    background-position:center;
+}
+.main{
+    background-color:rgb(31, 83, 100); 
+  
+}
+ul{
+    margin-left: 170px;
+   
+}
+ul li{
+  display: inline-block;
+}
+ul li a{
+    margin-left: 100px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+ul li a:hover{
+        background-color: white;
+        color: black;
+    }
+
+
+
+    .footer{
+
+        text-align: center;
+        height: 100px;
+        margin-top: 50px;
+        margin-bottom: 100px;
+        font-size: 12px;
+          }
+          h1{
+
+           text-align: center;
+
+          }
+          h2{
+
+            text-align: center;
+          }
+          .present{
+
+         background-image: url(brownnn.jpg);
+
+          }
+          .tation{
+              height: 70px;
+              background-image: url(whiteeee.jpg);
+          }
+          header h1{
+
+            text-align: center;
+            color: white;
+             padding-top: 120px;
+             font-size: 50px;
+            }
+
+
+
+          

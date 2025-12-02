@@ -1,0 +1,179 @@
+*{
+    margin : 0;
+    padding:0;
+    font-family: Century Gothic;
+}
+
+header{
+    background-image: url(starss.jpg);
+    height: 50vh;
+    background-size:cover;
+    background-position:center;
+}
+.main{
+    background-color:rgb(31, 83, 100); 
+  
+}
+ul{
+    margin-left: 170px;
+   
+}
+ul li{
+  display: inline-block;
+}
+ul li a{
+    margin-left: 100px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+ul li a:hover{
+        background-color: white;
+        color: black;
+    }
+
+
+   .column {
+        float: left;
+        width: 50%;
+        height: 600px;
+        background-image: url(whiteeee.jpg);
+    
+    
+        /*padding: 10px;
+        height: 300px; /* Should be removed. Only for demonstration */
+      }
+    
+    
+      
+      /* Clear floats after the columns */
+      .row:after {
+        content: "";
+        display:table-row;
+        clear: both;
+        
+      }    
+
+      .columns {
+        float: left;
+        width: 50%;
+        height: 600px;
+        background-image: url(brownnn.jpg);
+
+       /* margin-left: 40px;
+
+    
+    
+       /*padding: 10px;
+        height: 300px; /* Should be removed. Only for demonstration */
+      }
+    
+    
+      
+      /* Clear floats after the columns */
+      .rows:after {
+        content: "";
+        display:table-row;
+        clear: both;
+      }     
+
+
+
+
+
+
+      .footer{
+
+        text-align: center;
+        height: 100px;
+        margin-top: 50px;
+        margin-bottom: 100px;
+        
+        font-size: 12px;
+        
+          }
+          .h2{
+
+            text-align: center;
+          }
+          .row .column h2{
+
+           /* text-align: center;*/
+           padding-left: 130px;
+
+          }
+          .row .column h1{
+            
+          /*text-align: center;*/
+          padding-left: 130px;
+
+          }
+          .dwnd{
+
+            padding-left: 130px;
+          }
+          .rows .columns h1{
+
+          padding-left: 130px;
+
+          }
+          .rows .columns h2{
+            padding-left: 130px;
+
+          }
+          .col{
+            float: left;
+            width: 50%;
+            height: 600px;
+            background-image: url(brownnn.jpg);
+
+
+          }
+          .dwd{
+
+            color: black;
+            background-color: transparent;
+            
+            border: solid;
+            
+            padding: 9px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+
+
+          }
+          .dwd :hover a {
+           
+            background-color: white;
+            color: black;
+        
+  
+          }
+          header h1{
+
+            text-align: center;
+            color: white;
+             padding-top: 120px;
+             font-size: 50px;
+            }
+        
+           
+            
+  
+
+          
+        
+          
+    
+          
+          
+
+          
+
+          
+
+      
+       
+    
